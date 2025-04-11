@@ -14,6 +14,9 @@
 ### 📌 Próximas tecnologias que irei aprender:
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="React" alt="React" width="50" height="50" />
+          
+   
 </div>
 
 ---
